@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in malware, Machine Learning & Lots more.
+- 👀 I’m interested in numbers
 - ⚡ Fun fact: i like the colour yellow
 
 <!---
