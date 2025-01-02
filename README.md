@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dan
-- 👀 I’m interested in numbers
-- ⚡ Fun fact: i like the colour yellow
+- 👀 I’m interested in electronics
 
 <!---
 Dangongg/Dangongg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
